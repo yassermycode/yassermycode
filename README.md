@@ -5,16 +5,16 @@
 ### Hi, my name is Yasser 👋 and I ❤️ Data Science and Software Engineering
 
 **Field of interests**: Full-Stack Development, Cloud Architecture, Data Engineering, Competitive Programming<br>
-**Leadership Style**: Strategic "Political Fox" approach to administrative and political communication<br>
+**Leadership Style**: Strategic approach to administrative and political communication<br>
 **Contact**: [yassermoulaysm@gmail.com](mailto:yassermoulaysm@gmail.com) | [LinkedIn](https://linkedin.com/in/yassermoulay/)
 
 ### Skills 🛠️
 
-* **Languages**: Java (POO), Python, C, PHP
-* **Web Frameworks**: Laravel, Symfony, React.js, Next.js, FastAPI, Angular
+* **Languages**: Java, Python, C, PHP
+* **Web Frameworks**: Laravel, React.js, Next.js, FastAPI, Angular
 * **Data & AI**: SQL, NumPy, Pandas
 * **Cloud & DevOps**: AWS, Azure Blob Storage, Docker, Git, Linux
-* **Soft Skills**: Leadership, Team Management, Public Speaking, Negotiation
+* **Soft Skills**: Leadership, Team Management, Negotiation
 
 ### Experience & Leadership 👔
 
@@ -35,7 +35,6 @@
 * [**ENSIAS Hub**](https://github.com/yassermycode) - An end-of-year project platform centralizing student services, built with Laravel, Next.js, and Azure Blob Storage
 * [**PORTNET HARPON**](https://github.com/yassermycode) - A decision support system for customs fraud detection, processing documentary analysis in under a second using FastAPI and React
 * [**ENSIAS EATS**](https://github.com/yassermycode) - A web platform developed in React.js to optimize cafeteria flows, focusing on frontend and UI/UX design
-* [**Licorne**](https://github.com/yassermycode) - A planned national hackathon concept intersecting Data, Cybersecurity, and Software
 
 ### Hackathons & Competitions 💻
 
@@ -45,17 +44,13 @@
 
 ### Certifications 📜
 
-* AWS Cloud Practitioner
-* Cisco CCNA 1 Introduction to Networks
 * Java Masterclass (Udemy, +130h)
 * Full Stack Engineer (Codecademy)
 
 ### Hobbies & Extras ⚡
 
-* Competitive programming on LeetCode and NeetCode
 * 10km runs and marathon training
 * Studying grandmaster chess strategies
-* Enthusiast of high-performance automotive engineering
 
 ### GitHub Stats ⭐
 
