@@ -58,8 +58,8 @@ visitor@github:~$ cat ./about_me.txt
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yassermycode&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassermycode&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yassermycode&show_icons=true&hide_border=true&bg_color=890B08&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassermycode&layout=compact&hide_border=true&bg_color=890B08&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
 
 </div>
 
@@ -100,7 +100,7 @@ current = {
 
 <div align="center">
 
-[![Yasser's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yassermycode&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yasser's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yassermycode&bg_color=0d1117&color=890B08&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
