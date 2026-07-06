@@ -32,25 +32,25 @@ visitor@github:~$ cat ./about_me.txt
 
 **Languages**
 
-[cite_start][![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [cite: 51]
-[cite_start][![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [cite: 51]
-[cite_start][![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [cite: 51] (reps Laravel)
-[cite_start][![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [cite: 51]
-[cite_start][![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [cite: 51]
-[cite_start][![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [cite: 52] (Next.js)
-[cite_start][![SQL](https://skillicons.dev/icons?i=sql)](https://skillicons.dev) [cite: 52]
+[cite_start][![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[cite_start][![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[cite_start][![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[cite_start][![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[cite_start][![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[cite_start][![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[cite_start][![SQL](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
 
 **Frameworks & Tools**
 
-[cite_start][![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) [cite: 51]
-[cite_start][![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) [cite: 52]
-[cite_start][![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [cite: 52]
-[cite_start][![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://git.io/typing-svg) [cite: 52]
-[cite_start][![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [cite: 53]
-[cite_start][![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [cite: 53]
-[cite_start][![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [cite: 53]
-[cite_start][![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [cite: 53]
-[cite_start][![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [cite: 53]
+[cite_start][![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[cite_start][![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[cite_start][![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
+[cite_start][![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://git.io/typing-svg)
+[cite_start][![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[cite_start][![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) 
+[cite_start][![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[cite_start][![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) 
+[cite_start][![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---
 
